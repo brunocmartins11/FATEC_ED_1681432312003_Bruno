@@ -59,6 +59,7 @@ Instrução: Inserção de Valores e Operação Aritmética Simples (Soma)
 
 Total de Instruções: 2
 \
+\
 Linha 5:
 ```http
 se A[meio] == x entao 
